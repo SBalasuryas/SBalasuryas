@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 - 🌱 I’m currently learning **React**
--  Looking for Intern in FullStack DEvelopnment
+-  Looking for Intern in FullStack Developnment
 - 👨‍💻 All of my projects are available at [https://github.com/SBalasuryas](https://github.com/SBalasuryas)
 
 - 📫 How to reach me **sbalasbalasurya@gmail.com**
